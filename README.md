@@ -1,4 +1,4 @@
-# validation_accuracy 99%
+# validation_accuracy 99%       		   val_acc 99%  
 # train/validation folder == acc/val_acc
 
 Epoch 175/300
@@ -27,5 +27,6 @@ Kaggle Cats and Dogs Dataset
 
 https://www.microsoft.com/en-us/download/details.aspx?id=54765
 
+## discussion
 
-
+https://github.com/keras-team/keras/issues/14099
