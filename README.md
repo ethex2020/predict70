@@ -8,9 +8,12 @@ Epoch 175/300
 
 
 
-tensorflow 2.1
+## tensorflow 2.1
+
 keras 2.3.1
+
 cudatoolkit 10.1.243
+
 cudnn 7.6.5 
 
 
