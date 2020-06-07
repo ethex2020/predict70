@@ -17,6 +17,8 @@ cudatoolkit 10.1.243
 cudnn 7.6.5 
 
 
+
+
 Kaggle Cats and Dogs Dataset
 
 https://www.microsoft.com/en-us/download/details.aspx?id=54765
