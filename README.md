@@ -5,3 +5,6 @@ Epoch 175/300
 
 
 # predict accuracy 70%
+
+Kaggle Cats and Dogs Dataset
+https://www.microsoft.com/en-us/download/details.aspx?id=54765
