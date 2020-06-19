@@ -1,13 +1,20 @@
-# validation_accuracy 99%       		   val_acc 99%  
-# train/validation folder == acc/val_acc
+## validation_accuracy 99%       		   val_acc 99%  
+## train/validation folder == acc/val_acc
 
 Epoch 175/300
+
 200/200 [==============================] - 45s 227ms/step - loss: 0.0134 - acc: 0.9960 - val_loss: 0.0011 - val_acc: 0.9925
 
 
-# predict() on validation_accuracy-FOLDER  only accuracy 70%
+## predict() on validation_accuracy-FOLDER  only accuracy 70%
+
+#
 
 
+## error solved, now is the predict() accuracy 98%
+No method preprocess_input() and normalization, it works! 
+#
+#
 
 tensorflow 2.1
 
