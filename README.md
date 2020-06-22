@@ -11,7 +11,7 @@ Epoch 175/300
 #
 
 
-## error solved, now is the predict() accuracy 97.75%
+## error solved?, now is the predict() accuracy 97.75%
 No method preprocess_input() and normalization, it works! 
 #
 #
