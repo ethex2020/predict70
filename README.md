@@ -12,10 +12,25 @@ Epoch 175/300
 
 
 ## error solved?, now is the predict() accuracy 97.75%
-No method preprocess_input() and normalization, it works! 
+## evaluate() accuracy 97.75%
+No method preprocess_input() and normalization, it works!
+
+## But there is a discrepancy of 1.5%.  
+
+predict() and evaluate() produce not the same result as val_acc with 99.25%. 
+
+At a run over the same images which are part of the measurement of train and test( in my case validation, because i renamed test).
+
+
+2000 Cat and Dog images 
+
+99.25%:   2000 × 0,0075 = 15 wrongly classified images
+
+97.75%:   2000 × 0,0225 = 45 wrongly classified images
+
 #
 
-Name convention confusion ???
+## Name convention confusion ???
 
 https://keras.io/examples/mnist_net2net/
 
@@ -35,6 +50,7 @@ or
 
 
 #
+## environment
 
 tensorflow 2.1
 
@@ -43,6 +59,8 @@ keras 2.3.1
 cudatoolkit 10.1.243
 
 cudnn 7.6.5 
+
+jupyter notebook 5.0.0
 
 
 
