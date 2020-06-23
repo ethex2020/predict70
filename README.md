@@ -1,4 +1,4 @@
-## validation_accuracy 99%       		   val_acc 99%   on Kaggle Cats and Dogs Dataset
+## validation_accuracy 99%       		   val_acc 99%   
 ## train/validation(test) folder == acc/val_acc
 
 Epoch 175/300
